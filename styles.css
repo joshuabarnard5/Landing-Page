@@ -74,7 +74,7 @@ button {
     background-color: #3882f6;
     height: 40px;
     margin-top: 10px;
-    border-radius: 25px;
+    border-radius: 9px;
     border: 0;
     width: 100px;
     color: white;
@@ -147,25 +147,32 @@ div.item{
 .container4 {
     background-color: #3882f6;
     color: white;
-    border-radius: 10px;
+    border-radius: 8px;
     padding: 40px;
-    width: 800px;
+    width: 900px;
     display: flex;
     justify-content: space-between;
     margin: 40px;
+    align-items: center;
     
+}
+
+.milferstext {
+    padding: 20px
 }
 
 .milfers {
     font-weight: bold;
     font-size: 18px;
-    flex-wrap: wrap;
 }
 
-.subtext4 {
-
-}
 
 .button4 {
     border: 2px solid white;
+}
+
+.footer{
+    background-color: #1F2937;
+    text-align: center;
+    font-size: 14px;
 }
