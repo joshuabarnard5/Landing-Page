@@ -172,7 +172,8 @@ div.item{
 }
 
 .footer{
+    color: white;
     background-color: #1F2937;
     text-align: center;
-    font-size: 14px;
+    padding: 20px;
 }
